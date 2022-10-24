@@ -1,7 +1,6 @@
 /* Emircan KİREZ - Ch3rry */
 /* Last Update: 06/07/2022 */
 
-
 #include <stdio.h>                                                                                                                                                                  
 #define MAX 1 //MAX is set to 1 to test the functions. My total stack size is 2 MAX.
 
